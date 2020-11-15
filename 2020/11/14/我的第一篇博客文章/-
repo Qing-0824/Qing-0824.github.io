@@ -8,29 +8,31 @@
   <link rel="dns-prefetch" href="https://qing-0824.github.io">
   <title>我的第一篇博客文章 | 陈志远的博客</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="第一章———————— 第二章———————— 参考文献">
+  <meta name="description" content="我的博客文章编写">
 <meta property="og:type" content="article">
 <meta property="og:title" content="我的第一篇博客文章">
 <meta property="og:url" content="https://qing-0824.github.io/2020/11/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/-">
 <meta property="og:site_name" content="陈志远的博客">
-<meta property="og:description" content="第一章———————— 第二章———————— 参考文献">
+<meta property="og:description" content="我的博客文章编写">
 <meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="http://ww2.sinaimg.cn/large/7f318987jw1f72m7gv450j205k05kmx1.jpg">
 <meta property="article:published_time" content="2020-11-14T13:05:29.000Z">
-<meta property="article:modified_time" content="2020-11-15T07:15:50.363Z">
-<meta property="article:author" content="陈志远">
+<meta property="article:modified_time" content="2020-11-15T13:13:16.890Z">
+<meta property="article:author" content="chen zhiyuan">
 <meta property="article:tag" content="只是记录">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://ww2.sinaimg.cn/large/7f318987jw1f72m7gv450j205k05kmx1.jpg">
   
     <link rel="alternative" href="/atom.xml" title="陈志远的博客" type="application/atom+xml">
   
   
-    <link rel="icon" href="/assets/img/whead.jpg">
+    <link rel="icon" href="assets/whead.jpg">
   
   <link rel="stylesheet" type="text/css" href="/Qing-0824.github.io/./main.0cf68a.css">
   <style type="text/css">
   
     #container.show {
-      background: linear-gradient(200deg,#a0cfe4,#e8c37e);
+      background: linear-gradient(200deg,#ccc,#000);
     }
   </style>
   
@@ -48,10 +50,10 @@
 <div class="intrude-less">
 	<header id="header" class="inner">
 		<a href="/" class="profilepic">
-			<img src="assets/head.jpg" class="js-avatar show">
+			<img src="assets/head.jpg" class="js-avatar">
 		</a>
 		<hgroup>
-		  <h1 class="header-author"><a href="/"></a></h1>
+		  <h1 class="header-author"><a href="/">陈志远</a></h1>
 		</hgroup>
 		
 
@@ -97,12 +99,12 @@
 					<a class="mail" target="_blank" href="/Qing-0824.github.io/794047693@qq.com" title="mail"><i class="icon-mail"></i></a>
 		        
 			</div>
-			<!-- 网易云音乐插件 -->
-			
-				<div style="position:absolute; bottom:120px left:auto; width:85%">
-					<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=27192633&auto=1&height=66"></iframe>
-				</div>
-			
+<!-- 网易云音乐插件 -->
+
+	<div style="position:absolute; bottom:120px left:auto; width:85%">
+		<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=27192633&auto=1&height=32"></iframe>
+	</div>
+		
 		</nav>
 	</header>		
 </div>
@@ -121,7 +123,7 @@
 				<img src="assets/head.jpg" class="js-avatar">
 			</div>
 			<hgroup>
-			  <h1 class="header-author js-header-author"></h1>
+			  <h1 class="header-author js-header-author">陈志远</h1>
 			</hgroup>
 			
 			
@@ -193,8 +195,51 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <h2 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h2><p>————————</p>
-<h2 id="第二章"><a href="#第二章" class="headerlink" title="第二章"></a>第二章</h2><p>————————</p>
+        <h1 id="我的博客文章编写"><a href="#我的博客文章编写" class="headerlink" title="我的博客文章编写"></a>我的博客文章编写</h1><a id="more"></a>
+<h2 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h2><p>使用标题是需要#号</p>
+<p>#　H1标题<br>##　H2标题<br>###　H3标题<br>####　H4标题<br>#####　H5标题<br>######　H6标题 </p>
+<p>————————</p>
+<h2 id="段落"><a href="#段落" class="headerlink" title="段落"></a>段落</h2><p>这是第一个段落内容 </p>
+<p>这是第二个段落内容</p>
+<p>————————</p>
+<h2 id="区块引用"><a href="#区块引用" class="headerlink" title="区块引用"></a>区块引用</h2><blockquote>
+<p>这是一个区块引用 </p>
+</blockquote>
+<p>———————— </p>
+<h2 id="超链接"><a href="#超链接" class="headerlink" title="超链接"></a>超链接</h2><p>[百度]<a target="_blank" rel="noopener" href="https://www.baidu.com/">https://www.baidu.com/</a>  </p>
+<p>—————————</p>
+<h2 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h2><p><img src="http://ww2.sinaimg.cn/large/7f318987jw1f72m7gv450j205k05kmx1.jpg" alt="猫猫"> </p>
+<p>——————————</p>
+<h2 id="无序列表"><a href="#无序列表" class="headerlink" title="无序列表"></a>无序列表</h2><ul>
+<li>列表1</li>
+<li>列表2</li>
+</ul>
+<ul>
+<li>列表3</li>
+<li>列表4</li>
+</ul>
+<ul>
+<li>列表5</li>
+<li>列表6 </li>
+</ul>
+<p>—————————</p>
+<h2 id="有序列表"><a href="#有序列表" class="headerlink" title="有序列表"></a>有序列表</h2><ol>
+<li>文本</li>
+<li>音乐<ol>
+<li>童话</li>
+<li>列了都要爱</li>
+<li>天下</li>
+</ol>
+</li>
+<li>电影 </li>
+</ol>
+<p>—————————</p>
+<h2 id="代码块"><a href="#代码块" class="headerlink" title="代码块"></a>代码块</h2><pre><code>public class Test &#123;
+    public static void main(String[] args) &#123;
+        System.out.println(&quot;Hello World&quot;);
+    &#125;
+&#125;</code></pre>
+<p>———————— </p>
 <p>参考文献</p>
 
       
@@ -311,6 +356,19 @@
         </div>
         
         
+        <div class="toc-container tooltip-left">
+            <i class="icon-font icon-category"></i>
+            <div class="tooltip tooltip-east">
+                <span class="tooltip-item">
+                </span>
+                <span class="tooltip-content">
+                    <div class="toc-article">
+                    <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E7%BC%96%E5%86%99"><span class="toc-number">1.</span> <span class="toc-text">我的博客文章编写</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%A0%87%E9%A2%98"><span class="toc-number">1.1.</span> <span class="toc-text">标题</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%AE%B5%E8%90%BD"><span class="toc-number">1.2.</span> <span class="toc-text">段落</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%8C%BA%E5%9D%97%E5%BC%95%E7%94%A8"><span class="toc-number">1.3.</span> <span class="toc-text">区块引用</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E8%B6%85%E9%93%BE%E6%8E%A5"><span class="toc-number">1.4.</span> <span class="toc-text">超链接</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%9B%BE%E7%89%87"><span class="toc-number">1.5.</span> <span class="toc-text">图片</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%97%A0%E5%BA%8F%E5%88%97%E8%A1%A8"><span class="toc-number">1.6.</span> <span class="toc-text">无序列表</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%9C%89%E5%BA%8F%E5%88%97%E8%A1%A8"><span class="toc-number">1.7.</span> <span class="toc-text">有序列表</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E4%BB%A3%E7%A0%81%E5%9D%97"><span class="toc-number">1.8.</span> <span class="toc-text">代码块</span></a></li></ol></li></ol>
+                    </div>
+                </span>
+            </div>
+        </div>
+        
     </div>
 </aside>
 
@@ -334,7 +392,7 @@
   <div class="outer">
     <div id="footer-info">
     	<div class="footer-left">
-    		&copy; 2020 陈志远
+    		&copy; 2020 chen zhiyuan
     	</div>
       	<div class="footer-right">
       		<a href="http://hexo.io/" target="_blank">Hexo</a>  Theme <a href="https://github.com/litten/hexo-theme-yilia" target="_blank">Yilia</a> by Litten
